@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (nlpRoadmapButton) {
         nlpRoadmapButton.addEventListener('click', () => {
             // Replace 'your-nlp-roadmap-url.html' with the actual URL of your NLP roadmap page
-            window.location.href = 'your-nlp-roadmap-url.html'; 
+            window.location.href = 'https://rohitveera80.github.io/Nlp/'; 
         });
     }
 });
